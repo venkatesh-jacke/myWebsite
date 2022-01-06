@@ -1,2 +1,2 @@
 # online-book-store
-this is a online sore
+WELCOME TO ONLINE BOOK STORE
